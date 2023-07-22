@@ -1,0 +1,10 @@
+# Compiled output
+/dist
+
+# Node
+/node_modules
+/package-lock.json
+
+.vercel
+
+.vercel
